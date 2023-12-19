@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>What is your name</category>
+	<template>My name is tutorial</template>
+<category>
+    <pattern></pattern>
+    <template>Edit bot response</template>
+</category>
+</aiml>
